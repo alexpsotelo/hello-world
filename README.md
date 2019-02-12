@@ -1,2 +1,2 @@
 # hello-world
-Check it out
+Just another person trying to understand all this nonsense in the world...
